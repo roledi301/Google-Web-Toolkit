@@ -1,0 +1,2 @@
+serviceClass: es.us.lsi.cgis.client.ContactService
+path: 7654CB8F6925813360593DD8F417CC91.gwt.rpc
